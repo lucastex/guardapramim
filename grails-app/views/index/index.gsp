@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta name="layout" content="main"/>
-		<title>Guarda Pra Mim?</title>
+		<title>Guarda pra mim?</title>
 	</head>
 	<body>
 		<div id="content">
