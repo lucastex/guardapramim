@@ -1,0 +1,73 @@
+* { 
+	font-family: 'Sofia', cursive;
+}
+
+body { 
+	background-image: url("/images/bg.png")}
+
+body > #content {
+
+	text-align: center;
+	background-color: #FFFFFF;
+
+    left: 50%;
+
+    width: 600px;
+
+    margin-top: 50px;
+    margin-left: -300px;
+
+	position: absolute;
+
+	border: 1px solid black;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+}
+
+body > #content h1 {
+	font-size: 42px;
+	margin-bottom: 5px;
+}
+
+body > #content h3 {
+	font-weight: normal;
+}
+
+body > #content h4 {
+	font-weight: normal;
+	margin-bottom: 0px;
+}
+
+body p.limit {
+	margin-top: 3px;
+	font-weight: normal;
+	font-size: 12px;
+}
+
+body > #content form {
+	margin-top: 30px;
+}
+
+body .fb-comments {
+	margin-bottom: 20px;
+}
+
+body > #content > p > a {
+	font-family: 'Flamenco', cursive;
+}
+
+hr {
+	width: 85%;
+	background-color: #666666;
+	height: 3px;
+}
+
+div.left { 
+	float: left;
+	width: 500px;
+}
+
+div.right { 
+	float: left;
+	margin-top: 40px;
+}
